@@ -17,7 +17,8 @@
 </head>
 <body class="bg-gradient">
     <div class="container text-muted blockquote text-center mb-1">
-        <h1>Blood Bank Donor</h1>
+        <h1>Welcome to Blood Bank Donor Page.</h1>
+        <h2>  Log in For more details</h2>
     </div>
     <div class="d-flex justify-content-center align-items-center vh-100">
     <div class="card p-2 shadow-md" style="width: 20rem;">
